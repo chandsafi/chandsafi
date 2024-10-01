@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chandsafi
  Data Science & AI Trainee | 
-- 
+ 
 - 👀 I’m interested in ...
 -  Passionate about machine learning, analytics, and building intelligent solutions."
-- 
+ 
 - 🌱 I’m currently learning ...
 - Areas of Expertise
 - Python
